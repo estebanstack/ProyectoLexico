@@ -1,4 +1,5 @@
-# Analizador Léxico de Python usando Autómatas Finitos Deterministas (AFD)
+# Analizador Léxico de Python
+# Juan Sebastian Gonzalez, Esteban Castro
 
 Este proyecto implementa un analizador léxico para un lenguaje tipo *Python*, usando Autómatas Finitos Deterministas diseñados y codificados manualmente en **Python**.  
 El enfoque es **POO (Programación Orientada a Objetos)**: cada tipo de token tiene su propio AFD implementado como una clase independiente.  
